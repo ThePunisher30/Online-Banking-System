@@ -28,6 +28,5 @@ There are two roles user and admin.
 ### Dashboard Page   
 ![Dashboard page](img/dashboard2.png "Dashboard Page")
 
-## Spring Boot/Spring Data/Spring Security/Hibernate/MySQL/REST
 
 
